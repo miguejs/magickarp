@@ -1,0 +1,47 @@
+<svg width="432" height="450" viewBox="0 0 432 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>Slice</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(3 0 0 3 -3051 2508)" figma:type="canvas">
+<mask id="mask0_alpha" mask-type="alpha">
+<path d="M 886 -891L 2326 -891L 2326 133L 886 133L 886 -891Z" fill="#FFFFFF"/>
+</mask>
+<g id="Home" mask="url(#mask0_alpha)" figma:type="frame">
+<path d="M 886 -891L 2326 -891L 2326 133L 886 133L 886 -891Z" fill="#FFFFFF"/>
+<g id="Group 2" figma:type="frame">
+<g id="logo" figma:type="frame">
+<g id="Group" figma:type="symbol">
+<g id="Path 6" figma:type="vector">
+<use xlink:href="#path0_stroke" transform="translate(1088 -836)" fill="#F76060"/>
+</g>
+<g id="Line 2" figma:type="vector">
+<use xlink:href="#path1_stroke" transform="matrix(1 -2.44929e-16 2.44929e-16 1 1090 -831)" fill="#F76060"/>
+</g>
+<g id="Path 7 Copy 5" figma:type="vector">
+<use xlink:href="#path2_stroke" transform="translate(1089.26 -696)" fill="#F76060"/>
+</g>
+<g id="Path 7 Copy 3" figma:type="vector">
+<use xlink:href="#path3_stroke" transform="translate(1089.26 -761.271)" fill="#F76060"/>
+</g>
+<g id="mi" figma:type="vector">
+<use xlink:href="#path4_stroke" transform="translate(1022 -825.104)" fill="#F76060"/>
+</g>
+<g id="k" figma:type="vector">
+<use xlink:href="#path5_stroke" transform="translate(1028 -833)" fill="#F76060"/>
+</g>
+<g id="Line 2" figma:type="vector">
+<use xlink:href="#path1_stroke" transform="matrix(1 -2.44929e-16 2.44929e-16 1 1089 -691)" fill="#F76060"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 5 150L 5 0L -4 0L -4 150L 5 150Z"/>
+<path id="path1_stroke" d="M 0 5L 70 5L 70 -5L 0 -5L 0 5Z"/>
+<path id="path2_stroke" d="M 0 9.35972L 70.742 9.35972L 70.742 0.359718L 0 0.359718L 0 9.35972Z"/>
+<path id="path3_stroke" d="M 62.3289 -5L 0 -5L 0 5L 62.3289 5L 62.3289 -5Z"/>
+<path id="path4_stroke" d="M 0 0L 3.5306 -3.54046L -5 -12.0473L -5 0L 0 0ZM 66.781 66.5952L 63.2504 70.1356L 66.7746 73.65L 70.3051 70.142L 66.781 66.5952ZM 133.562 0.241568L 138.562 0.241568L 138.562 -11.7749L 130.038 -3.3053L 133.562 0.241568ZM 5 139.103L 5 0L -5 0L -5 139.103L 5 139.103ZM -3.5306 3.54046L 63.2504 70.1356L 70.3116 63.0547L 3.5306 -3.54046L -3.5306 3.54046ZM 70.3051 70.142L 137.086 3.78843L 130.038 -3.3053L 63.2568 63.0483L 70.3051 70.142ZM 128.562 0.241568L 128.562 139.103L 138.562 139.103L 138.562 0.241568L 128.562 0.241568Z"/>
+<path id="path5_stroke" d="M 0 71.2767L -3.82515 68.0567L -6.50862 71.2445L -3.85678 74.4587L 0 71.2767ZM 63.8568 140.818L 3.85678 68.0947L -3.85678 74.4587L 56.1432 147.182L 63.8568 140.818ZM 3.82515 74.4966L 63.8251 3.21997L 56.1749 -3.21997L -3.82515 68.0567L 3.82515 74.4966Z"/>
+</defs>
+</svg>

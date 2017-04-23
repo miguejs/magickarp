@@ -1,0 +1,39 @@
+<svg width="154" height="150" viewBox="0 0 154 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>logo</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1582 678)" figma:type="canvas">
+<g id="logo" figma:type="frame">
+<g id="Group" figma:type="symbol">
+<g id="Path 6" figma:type="vector">
+<use xlink:href="#path0_stroke" transform="translate(1657.78 -677)" fill="#F76060"/>
+</g>
+<g id="Line 2" figma:type="vector">
+<use xlink:href="#path1_stroke" transform="matrix(1 -6.49096e-30 0.00924176 0.999957 1659.93 -672.067)" fill="#F76060"/>
+</g>
+<g id="Path 7 Copy 5" figma:type="vector">
+<use xlink:href="#path2_stroke" transform="translate(1659.13 -538.867)" fill="#F76060"/>
+</g>
+<g id="Path 7 Copy 3" figma:type="vector">
+<use xlink:href="#path3_stroke" transform="translate(1659.13 -603.268)" fill="#F76060"/>
+</g>
+<g id="mi" figma:type="vector">
+<use xlink:href="#path4_stroke" transform="translate(1587 -666.249)" fill="#F76060"/>
+</g>
+<g id="k" figma:type="vector">
+<use xlink:href="#path5_stroke" transform="translate(1593.43 -674.04)" fill="#F76060"/>
+</g>
+<g id="Line 2" figma:type="vector">
+<use xlink:href="#path1_stroke" transform="matrix(1 -6.49096e-30 0.00924176 0.999957 1658.86 -533.933)" fill="#F76060"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 5.03623 148L 5.03623 0L -3.96377 0L -3.96377 148L 5.03623 148Z"/>
+<path id="path1_stroke" d="M 0 5L 75.0724 5L 75.0724 -5L 0 -5L 0 5Z"/>
+<path id="path2_stroke" d="M 0 9.29492L 75.8682 9.29492L 75.8682 0.294922L 0 0.294922L 0 9.29492Z"/>
+<path id="path3_stroke" d="M 66.8455 -5L 0 -5L 0 5L 66.8455 5L 66.8455 -5Z"/>
+<path id="path4_stroke" d="M 0 0L 3.38017 -3.68435L -5 -11.3727L -5 0L 0 0ZM 71.6201 65.7072L 68.24 69.3916L 71.614 72.487L 74.9936 69.3977L 71.6201 65.7072ZM 143.24 0.238347L 148.24 0.238347L 148.24 -11.1064L 139.867 -3.45212L 143.24 0.238347ZM 5 137.248L 5 0L -5 0L -5 137.248L 5 137.248ZM -3.38017 3.68435L 68.24 69.3916L 75.0003 62.0229L 3.38017 -3.68435L -3.38017 3.68435ZM 74.9936 69.3977L 146.614 3.92881L 139.867 -3.45212L 68.2467 62.0167L 74.9936 69.3977ZM 138.24 0.238347L 138.24 137.248L 148.24 137.248L 148.24 0.238347L 138.24 0.238347Z"/>
+<path id="path5_stroke" d="M 0 70.3263L -3.68885 66.9511L -6.74632 70.2926L -3.72241 73.6645L 0 70.3263ZM 68.0702 138.742L 3.72241 66.9881L -3.72241 73.6645L 60.6254 145.418L 68.0702 138.742ZM 3.68885 73.7016L 68.0366 3.37526L 60.6589 -3.37526L -3.68885 66.9511L 3.68885 73.7016Z"/>
+</defs>
+</svg>

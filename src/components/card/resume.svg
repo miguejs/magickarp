@@ -1,0 +1,18 @@
+<svg width="57" height="74" viewBox="0 0 57 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>1492854354_icon-86-document-list</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1842 346)" figma:type="canvas">
+<g id="1492854354_icon-86-document-list" figma:type="frame">
+<g id="g" figma:type="frame">
+<g id="g" figma:type="frame">
+<g id="path" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(1842 -346)" fill="#F76060"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 36 0L 6.02559 0C 2.69775 0 0 2.46211 0 5.50157L 0 68.4984C 0 71.5369 2.67278 74 5.99227 74L 51.0077 74C 54.3172 74 57 71.5582 57 68.5256L 57 21.9259L 42.0178 21.9259C 38.6942 21.9259 36 19.4957 36 16.4496L 36 0ZM 39 0L 39 16.4364C 39 17.9545 40.3529 19.1852 41.9723 19.1852L 57 19.1852L 39 0ZM 24 30.1481L 24 32.8889L 48 32.8889L 48 30.1481L 24 30.1481ZM 9 27.4074L 9 35.6296L 18 35.6296L 18 27.4074L 9 27.4074ZM 12 30.1481L 12 32.8889L 15 32.8889L 15 30.1481L 12 30.1481ZM 9 41.1111L 9 49.3333L 18 49.3333L 18 41.1111L 9 41.1111ZM 12 43.8519L 12 46.5926L 15 46.5926L 15 43.8519L 12 43.8519ZM 24 43.8519L 24 46.5926L 48 46.5926L 48 43.8519L 24 43.8519ZM 9 54.8148L 9 63.037L 18 63.037L 18 54.8148L 9 54.8148ZM 12 57.5556L 12 60.2963L 15 60.2963L 15 57.5556L 12 57.5556ZM 24 57.5556L 24 60.2963L 48 60.2963L 48 57.5556L 24 57.5556Z"/>
+</defs>
+</svg>

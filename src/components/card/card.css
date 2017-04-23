@@ -1,0 +1,37 @@
+/* card */
+.card {
+  background: #FFFFFF;
+  border: 2px solid rgba(0, 0, 0, 0.08);
+  border-radius: 6px;
+  box-shadow: 4px 4px 13px rgba(247, 96, 96, 0.22);
+  opacity: 1.00;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 800px;
+  height: 500px;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.card-logo {
+  margin-top: 40px;
+}
+.header {
+  width: 100%;
+display: flex;
+justify-content: center;
+}
+.content{
+  align-self: center;
+  text-align: center;
+}
+.footer {
+  display: flex;
+align-items: center;
+width: 100%;
+justify-content: space-around;
+height: 100%;
+}
