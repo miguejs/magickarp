@@ -5,18 +5,18 @@ import {
   Link,
   Switch
 } from 'react-router-dom';
+import { Provider } from 'react-redux';
 import Home from './cards/home/home';
 import Stats from './cards/stats/stats';
+import NoMatch from './not-found';
 
-const NoMatch = ({ location }) => (
-  <div>
-    <h3>No match for <code>{location.pathname}</code></h3>
-  </div>
-)
+class Root extends Component {
+  componentDidMount() {
 
-class App extends Component {
+  }
   render() {
     return (
+      <Provider store={this.props.store} >
         <Router>
           <div className="App">
           <Switch>
@@ -24,16 +24,16 @@ class App extends Component {
             <Route path="/stats" component={Stats}/>
             <Route component={NoMatch}/>
           </Switch>
-
           <ul>
             <li><Link to="/">Home</Link></li>
             <li><Link to="/stats">Stats</Link></li>
           </ul>
           </div>
         </Router>
-
+      </Provider>
     );
   }
 }
 
-export default App;
+
+export default Root;

@@ -10,12 +10,8 @@ class Home extends Component {
   render() {
     return (
      <div className="card">
-        <div className="header">
-          <img src={logo} className="card-logo" alt="logo" />
-        </div>
-        <div className="content">
 
-        </div>
+        <img src={logo} alt="logo" />
         <div className="footer">
           <a href=""> <img src={twitter} className="" alt="logo" /></a>
           <a href=""> <img src={github} className="" alt="logo" /></a>

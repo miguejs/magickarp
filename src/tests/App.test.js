@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from '../components/App';
-
+import Root from '../components/Root';
+import configureStore from '../configureStore';
+const store = configureStore();
 it('renders without crashing', () => {
   const div = document.createElement('div');
-  ReactDOM.render(<App />, div);
+  ReactDOM.render(<Root store={ store} />, div);
 });
