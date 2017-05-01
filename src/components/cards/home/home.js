@@ -1,20 +1,17 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import github from './github.svg';
-import twitter from './twitter.svg';
-import resume from './resume.svg';
-import './card.css';
+// images
+import logo from './images/logo.svg'
+import twitter from './images/twitter.svg'
+import github  from './images/github.svg'
+import resume from './images/resume.svg'
+import './home.css';
 
-class HomeCard extends Component {
+class Home extends Component {
   render() {
     return (
      <div className="card">
-        <div className="header">
-          <img src={logo} className="card-logo" alt="logo" />
-        </div>
-        <div className="content">
 
-        </div>
+        <img src={logo} alt="logo" />
         <div className="footer">
           <a href=""> <img src={twitter} className="" alt="logo" /></a>
           <a href=""> <img src={github} className="" alt="logo" /></a>
@@ -25,4 +22,4 @@ class HomeCard extends Component {
   }
 }
 
-export default HomeCard;
+export default Home;
